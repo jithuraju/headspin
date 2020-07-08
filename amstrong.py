@@ -1,5 +1,5 @@
 import sys
-#print(sys.argv)
+print(sys.argv)
 n=int(sys.argv[1])
 print("limit is:",n)
 print("amstrng numbers are:")
